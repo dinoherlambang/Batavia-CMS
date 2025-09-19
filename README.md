@@ -107,10 +107,15 @@ For detailed progress tracking, see [DEVELOPMENT-PROGRESS.md](DEVELOPMENT-PROGRE
 
 ## 📚 Documentation
 
-- [Installation Guide](docs/installation.md) *(Coming Soon)*
-- [User Manual](docs/user-guide.md) *(Coming Soon)*
-- [Developer Documentation](docs/developer.md) *(Coming Soon)*
-- [API Reference](docs/api.md) *(Coming Soon)*
+For comprehensive documentation, please visit our **[Documentation Hub](docs/README.md)**.
+
+### 📋 **Quick Documentation Links**
+- **[Development Progress](docs/development/DEVELOPMENT-PROGRESS.md)** - Complete development tracking
+- **[Stage Reports](docs/stage-reports/)** - Individual stage completion reports
+- **[Testing Reports](docs/testing/)** - System testing and verification
+- **[Screenshots](docs/screenshots/)** - Visual documentation
+
+## 📊 Development Status
 
 ## 🤝 Contributing
 
