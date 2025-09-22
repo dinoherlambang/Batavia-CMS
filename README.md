@@ -2,7 +2,7 @@
 
 **The Next-Generation Content Management System with Built-in AI Intelligence**
 
-*Empowering content creators with artificial intelligence, SEO optimization, and modern Laravel architecture*
+***A comprehensive digital marketing platform*** *empowering content creators with artificial intelligence, social media integration, SEO optimization, and modern Laravel architecture*
 
 ---
 
